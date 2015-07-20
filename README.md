@@ -1,2 +1,4 @@
 # testGitHub
-Git hub tutorial
+**************
+
+Git hub tutorial to learn to use github
